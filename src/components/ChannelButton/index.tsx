@@ -24,6 +24,7 @@ const ChannelButton: React.FC<Props> = ({
       </div>
     </Container>
   )
+  
 }
 
 export default ChannelButton
