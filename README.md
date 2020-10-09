@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="./web/src/assets/images/logo.svg" alt="Doctor" width="120"> <img > 
+  <h1 align="center">Clone Of discord</h1>
 <br>
 
 </h1>
