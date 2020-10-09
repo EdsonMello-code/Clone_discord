@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <h1 align="center">Clone Of discord</h1>
+  <h1 align="center">Clone of discord</h1>
 <br>
 
 </h1>
